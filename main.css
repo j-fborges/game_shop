@@ -96,6 +96,10 @@ div.contact-methods {
     justify-content: space-between;
 }
 
+.contact-methods h3 {
+    color: blue;
+}
+
 form input,
 form textarea,
 form button{
